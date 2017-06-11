@@ -1,0 +1,1 @@
+include ':app', ':processors', ':annotation', ':annotation-api'
